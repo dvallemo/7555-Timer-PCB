@@ -60,14 +60,18 @@ The 4 warnings are non-critical: 3 are single-layer via warnings resolved after 
 ### Schematic
 ![Schematic](images/schematic.png)
 
+### Assigning Footprints
+![Footprints](images/footprints.png)
+
+
 ### PCB Layout
 ![PCB Layout](images/layout.png)
 
 ### 3D Render - Top
-![3D Top](images/3d_top.png)
+![3D Top](images/3D_Top.png)
 
 ### 3D Render - Bottom
-![3D Bottom](images/3d_bottom.png)
+![3D Bottom](images/3D_Bottom.png)
 
 ---
 
