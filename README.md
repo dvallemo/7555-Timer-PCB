@@ -58,7 +58,7 @@ The 4 warnings are non-critical: 3 are single-layer via warnings resolved after 
 ## Board Images
 
 ### Schematic
-![Schematic](images/schematic.png)
+![Schematic](images/Schematic.png)
 
 ### Assigning Footprints
 ![Footprints](images/footprints.png)
