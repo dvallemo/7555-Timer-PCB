@@ -61,7 +61,7 @@ The 4 warnings are non-critical: 3 are single-layer via warnings resolved after 
 ![Schematic](images/schematic.png)
 
 ### PCB Layout
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](images/layout.png)
 
 ### 3D Render - Top
 ![3D Top](images/3d_top.png)
